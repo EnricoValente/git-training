@@ -43,3 +43,8 @@ li > a {
   padding: 0;
   box-sizing: border-box;
 }
+
+footer > h1{
+    color:green;
+    text-align: center;
+}
